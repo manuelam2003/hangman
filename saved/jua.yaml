@@ -1,0 +1,5 @@
+--- !ruby/object:Game
+key: paintings
+key_clues: _________
+guessed: []
+guesses: 10

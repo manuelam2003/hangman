@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+key: provinces
+key_clues: ____i__e_
+guessed:
+- "\e[35ml\e[0m"
+- "\e[35ma\e[0m"
+- "\e[32me\e[0m"
+- "\e[32mi\e[0m"
+guesses: 8
